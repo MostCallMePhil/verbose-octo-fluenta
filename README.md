@@ -111,11 +111,6 @@ $$\Omega = \int_{_{\star}} ((\Sigma \delta \blacksquare) \setminus \square)$$
 
 ---
 
-## 📁 Repository Structure
-
-the-covenant-of-light/ ├── README.md # This file ├── LICENSE # CC BY-NC-SA 4.0 ├── covena
-
-
 ## 🤝 Collaboration Methodology
 
 This project utilized **iterative prompt engineering** across multiple sessions:
