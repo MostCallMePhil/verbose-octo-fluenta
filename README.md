@@ -219,4 +219,6 @@ This project would not exist without:
 
 - Watch this repository for future updates
 - Explore related frameworks in `/library-of-love/` and `/roadmap-for-humanity/`
-- Share with 
+- Share with those who may need it most (non-commercial use only)
+
+**The covenant continues.**
